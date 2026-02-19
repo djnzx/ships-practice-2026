@@ -5,3 +5,11 @@
 ![img](https://www.lingoda.com/blog/wp-content/webp-express/webp-images/uploads/2020/10/How-To-Say-Hello-in-10-Languages.jpg.webp)
 
 [toc](./index.md)
+
+
+```mermaid
+flowchart LR
+A[Start] --> B{Decision}
+B -->|Yes| C[Continue]
+B -->|No| D[Stop]
+```
